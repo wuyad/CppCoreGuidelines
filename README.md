@@ -33,6 +33,6 @@ c++是一种更小、更简单、更安全的语言。
 
 ## Contributions and LICENSE
 
-欢迎提出改进意见和建议。随着我们对该文档的理解不断提高，以及可用库的语言和集合的不断改进，我们计划修改和扩展该文档。更多细节可在[CONTRIBUTING](./CONTRIBUTING.md)和[LICENSE](./LICENSE)找到。
+欢迎提出改进意见和建议。随着我们的理解不断提高以及语言和可用库的不断改进，我们计划修改和扩展该文档。更多细节可在[CONTRIBUTING](./CONTRIBUTING.md)和[LICENSE](./LICENSE)找到。
 
 感谢[DigitalOcean](https://www.digitalocean.com/?refcode=32f291566cf7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)托管标准C++基金会网站。
