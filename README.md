@@ -9,7 +9,7 @@ c++是一种更小、更简单、更安全的语言。
 
 这个指南可在[CppCoreGuidelines](CppCoreGuidelines.md)找到。文档在[GH-flavored MarkDown](https://github.github.com/gfm/)中。它有意保持简单(主要是ASCII格式)，以允许自动后期处理，如语言翻译和重新格式化。编辑人员维护一个[用于浏览的格式化版本](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)。注意，它是手工集成的，并且可能比主分支中的版本稍早一些。
 
-指南是一个不断发展的文档，没有严格的“发布”节奏。Bjarne Stroustrup定期检查文档，并在介绍中增加版本号。[签入增加版本号](https://github.com/isocpp/CppCoreGuidelines/releases)被标记到git中。
+指南是一个不断发展的文档，没有严格的“发布”节奏。Bjarne Stroustrup定期检查文档，并在介绍中增加版本号。[签入增加的版本号](https://github.com/isocpp/CppCoreGuidelines/releases)被标记到git中。
 
 许多指南使用了只有头文件的指南支持库。一个应用实现可以在[GSL: 指南支持库](https://github.com/Microsoft/GSL)获得。
 
@@ -33,6 +33,6 @@ c++是一种更小、更简单、更安全的语言。
 
 ## Contributions and LICENSE
 
-欢迎提出改进意见和建议。随着我们对该文档的理解不断提高，以及可用库的语言和集合的不断改进，我们计划修改和扩展该文档。更多细节可在[contribution](./ contribution.md)和[LICENSE](./LICENSE)找到。
+欢迎提出改进意见和建议。随着我们对该文档的理解不断提高，以及可用库的语言和集合的不断改进，我们计划修改和扩展该文档。更多细节可在[CONTRIBUTING](./CONTRIBUTING.md)和[LICENSE](./LICENSE)找到。
 
-感谢[DigitalOcean](https://www.digitalocean.com/?refcode=32f291566cf7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)托管标准c++基金会网站。
+感谢[DigitalOcean](https://www.digitalocean.com/?refcode=32f291566cf7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)托管标准C++基金会网站。
